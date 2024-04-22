@@ -98,18 +98,40 @@ and click on the connect icon
 
 
 
-### output video and screen shots of pick and place 
+### OUTPUT AND SCREEN SHOTS OF PICK AND PLACE
 
 
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/fc107f9a-d09b-44eb-ad46-4330e8acc0c0)
 
 
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/6a9660fc-21be-46b9-93af-812f4e5568a5)
 
 
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/59e34952-2b87-4777-b6dc-37e2f07080ce)
+
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/1f434c71-f105-4b29-877e-64ec85faadc6)
+
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/73b47580-2e31-4404-99de-e00f9b89d9bc)
+
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/76f7f1b9-5454-4fc3-b1a7-77d150b9559f)
+
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/ec2d231c-52e1-4da7-8cbe-703aab241c0f)
+
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/f3dcb94e-4da7-47eb-afdf-149718c0704d)
+
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/b487319f-fc0d-49dc-926b-af1aea951750)
+
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/4706ec2e-fe3f-4d5c-bc32-7cab3a171e23)
+
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/f24f95c2-e16d-4cd0-a58a-4960a7e6b637)
+
+
+https://drive.google.com/file/d/1ZjvFt7VpE1q2KmO-ChKVZgGW7BNNTCY_/view?usp=sharing
 
 ### Results: 
 
 
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
